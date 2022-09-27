@@ -1,1 +1,1 @@
-Wallarm2022年一季度API漏洞报告排行第一名CVE-2022-22947
+Wallarm2022年一季度API漏洞报告排行https://static.wallarm.com/wallarm-webflow/resources/api-vulnerabilities-discovered-and-exploited-in-q1-2022/API%20vulnerabilities%20discovered%20and%20exploited%20in%20Q1-2022.pdf
