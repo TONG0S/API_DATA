@@ -1,0 +1,3 @@
+Wallarm2022年Q1季度API漏洞报告排行https://static.wallarm.com/wallarm-webflow/resources/api-vulnerabilities-discovered-and-exploited-in-q1-2022/API%20vulnerabilities%20discovered%20and%20exploited%20in%20Q1-2022.pdf
+
+Wallarm2022年Q2季度API漏洞报告排行https://hubspot.wallarm.com/hubfs/2022-Q2_API_vuln_report_infographic.pdf?utm_medium=email&_hsmi=135298576&_hsenc=p2ANqtz-_W044Hm55RwVTrJkuQsgaZDh6sWnSRDC7SHUmfSWenh6X_wk1EEG9GjuOuyK3JyCzmlHm6tzDdyBxYM0JCQB-SBmLYCw&utm_content=135298576&utm_source=hs_automation
